@@ -263,5 +263,5 @@ categories: 比較
 ---
 
 **関連記事**
-- [投資信託の選び方](../14/how-to-choose-investment-trust.html)
-- [NISAとは？完全ガイド](../13/nisa-guide.html)
+- [投資信託の選び方](../14/how-to-choose-investment-trust.md)
+- [NISAとは？完全ガイド](../13/nisa-guide.md)
