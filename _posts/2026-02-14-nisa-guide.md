@@ -100,3 +100,11 @@ NISAは投資初心者にとって**最強の制度**です。
 - [投資信託の選び方](/investment-blog/basics/2026/02/14/how-to-choose-investment-trust.html)
 - [証券会社徹底比較](/investment-blog/comparison/2026/02/14/broker-comparison.html)
 - [iDeCoとは？](/investment-blog/basics/2026/02/14/ideco-guide.html)
+
+- ---
+
+## テスト
+
+[投資シミュレーター](https://investortenfor.github.io/investment-simulator/)
+
+[投資信託の選び方](/investment-blog/basics/2026/02/14/how-to-choose-investment-trust.html)
