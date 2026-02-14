@@ -2,7 +2,7 @@
 layout: post
 title: "NISAとは？完全ガイド【2026年版】"
 date: 2026-02-14
-categories: 基礎知識
+categories: basics
 ---
 
 # NISAとは？
@@ -97,6 +97,6 @@ NISAは投資初心者にとって**最強の制度**です。
 
 **関連記事**
 - [投資シミュレーター](https://investortenfor.github.io/investment-simulator/)
-- [投資信託の選び方](/investment-blog/基礎知識/2026/02/14/how-to-choose-investment-trust.html)
-- [証券会社徹底比較](/investment-blog/比較/2026/02/14/broker-comparison.html)
-- [iDeCoとは？](/investment-blog/基礎知識/2026/02/14/ideco-guide.html)
+- [投資信託の選び方](/investment-blog/basics/2026/02/14/how-to-choose-investment-trust.html)
+- [証券会社徹底比較](/investment-blog/comparison/2026/02/14/broker-comparison.html)
+- [iDeCoとは？](/investment-blog/basics/2026/02/14/ideco-guide.html)
