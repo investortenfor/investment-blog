@@ -26,11 +26,11 @@ permalink: /about/
 
 **InvestorTenfor**
 
-投資歴○年。「投資って難しそう」という不安を解消するため、
+投資歴9年。「投資って難しそう」という不安を解消するため、
 誰でも簡単に使えるツールと情報を提供しています。
 
-Twitter: [@あなたのID](https://twitter.com/あなたのID)
+Twitter: [@tenfor1234](https://twitter.com/tenfor1234)
 
 ### お問い合わせ
 
-ご質問・ご要望は[Twitter](https://twitter.com/あなたのID)のDMまでお願いします。
+ご質問・ご要望は[Twitter](https://twitter.com/tenfor1234)のDMまでお願いします。
