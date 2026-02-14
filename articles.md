@@ -10,7 +10,7 @@ permalink: /articles/
   {% for post in site.posts %}
     <li>
       <span>{{ post.date | date: "%Y-%m-%d" }}</span> » 
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
@@ -18,16 +18,22 @@ permalink: /articles/
 ## カテゴリー別
 
 ### 基礎知識
+<ul>
 {% for post in site.categories.基礎知識 %}
-- [{{ post.title }}]({{ post.url }})
+  <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
+</ul>
 
 ### 実践
+<ul>
 {% for post in site.categories.実践 %}
-- [{{ post.title }}]({{ post.url }})
+  <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
+</ul>
 
 ### 比較
+<ul>
 {% for post in site.categories.比較 %}
-- [{{ post.title }}]({{ post.url }})
+  <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
+</ul>
