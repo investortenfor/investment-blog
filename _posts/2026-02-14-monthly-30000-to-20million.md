@@ -219,5 +219,5 @@ categories: practice
 **関連記事**
 - [投資シミュレーター](https://investortenfor.github.io/investment-simulator/)
 - [投資信託の選び方](/investment-blog/basics/2026/02/14/how-to-choose-investment-trust.html)
-- [NISAとは？完全ガイド](/investment-blog/basics/2026/02/14/nisa-guide.html)
+- [NISAとは？完全ガイド](/investment-blog/basics/2026/02/13/nisa-guide.html)
 - [複利の力](/investment-blog/basics/2026/02/17/compound-interest.html)
