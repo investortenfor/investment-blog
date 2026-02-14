@@ -383,5 +383,5 @@ A: **今すぐ始めるのが正解**
 **関連記事**
 - [投資シミュレーター](https://investortenfor.github.io/investment-simulator/)
 - [投資信託の選び方](/investment-blog/basics/2026/02/14/how-to-choose-investment-trust.html)
-- [NISAとは？完全ガイド](/investment-blog/basics/2026/02/14/nisa-guide.html)
-- [証券会社徹底比較](/investment-blog/comparison/2026/02/14/broker-comparison.html)
+- [NISAとは？完全ガイド](/investment-blog/basics/2026/02/13/nisa-guide.html)
+- [証券会社徹底比較](/investment-blog/comparison/2026/02/15/broker-comparison.html)
