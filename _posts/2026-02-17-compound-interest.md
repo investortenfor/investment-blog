@@ -391,6 +391,6 @@ A: **元本と期間次第**
 
 **関連記事**
 - [投資シミュレーター](https://investortenfor.github.io/investment-simulator/)
-- [インデックス投資とは？](/investment-blog/basics/2026/02/14/index-investing.html)
+- [インデックス投資とは？](/investment-blog/basics/2026/02/16/index-investing.html)
 - [ドルコスト平均法](/investment-blog/basics/2026/02/16/dollar-cost-averaging.html)
 - [毎月3万円で老後2000万円](/investment-blog/practice/2026/02/14/monthly-30000-to-20million.html)
