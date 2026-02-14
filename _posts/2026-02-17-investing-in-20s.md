@@ -2,7 +2,7 @@
 layout: post
 title: "20代から始める資産形成｜今すぐやるべき5つのこと"
 date: 2026-02-17
-categories: 実践
+categories: practice
 ---
 
 # 20代から始める資産形成
@@ -370,6 +370,7 @@ categories: 実践
 ---
 
 **関連記事**
-- [複利の力](./compound-interest.html)
-- [毎月3万円で老後2000万円](../14/monthly-30000-to-20million.html)
-- [投資信託の選び方](../14/how-to-choose-investment-trust.html)
+- [投資シミュレーター](https://investortenfor.github.io/investment-simulator/)
+- [複利の力](/investment-blog/basics/2026/02/17/compound-interest.html)
+- [毎月3万円で老後2000万円](/investment-blog/practice/2026/02/14/monthly-30000-to-20million.html)
+- [投資信託の選び方](/investment-blog/basics/2026/02/14/how-to-choose-investment-trust.html)
