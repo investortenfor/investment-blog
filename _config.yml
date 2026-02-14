@@ -1,0 +1,26 @@
+# サイト基本情報
+title: インベスターラボ
+description: 投資シミュレーターと投資の基礎知識を発信
+author: InvestorTenfor
+email: your-email@example.com
+
+# URL設定
+url: "https://investortenfor.github.io"
+baseurl: "/investment-blog"
+
+# テーマ
+theme: minima
+
+# ナビゲーションメニュー
+header_pages:
+  - about.md
+  - articles.md
+  - simulator.md
+
+# プラグイン
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# 表示設定
+show_excerpts: true
