@@ -218,6 +218,6 @@ categories: basics
 
 **関連記事**
 - [投資シミュレーター](https://investortenfor.github.io/investment-simulator/)
-- [NISAとは？完全ガイド](/investment-blog/basics/2026/02/14/nisa-guide.html)
+- [NISAとは？完全ガイド](https://investment-blog/basics/2026/02/14/nisa-guide.html)
 - [証券会社徹底比較](/investment-blog/comparison/2026/02/14/broker-comparison.html)
 - [インデックス投資とは？](/investment-blog/basics/2026/02/14/index-investing.html)
