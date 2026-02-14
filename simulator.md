@@ -35,37 +35,3 @@ permalink: /simulator/
 
 詳しい使い方は[投資シミュレーターの使い方](記事URL)をご覧ください。
 ```
-
-4. 「Commit new file」
-
----
-
-### **ステップ8: GitHub Pagesを有効化**
-
-1. リポジトリの **Settings** タブ
-2. 左メニューから **Pages**
-3. Source: **main** ブランチを選択
-4. 「Save」をクリック
-5. 数分待つ
-
----
-
-### **ステップ9: サイトにアクセス**
-
-数分後（最大10分）、以下のURLでアクセス可能:
-```
-https://investortenfor.github.io/investment-blog/
-```
-
----
-
-## ✅ 完成したファイル構成
-```
-investment-blog/
-├── _config.yml          ← サイト設定
-├── _posts/
-│   └── 2026-02-13-nisa-guide.md  ← 記事
-├── index.md             ← トップページ
-├── about.md             ← このサイトについて
-├── articles.md          ← 記事一覧
-└── simulator.md         ← シミュレーター紹介
