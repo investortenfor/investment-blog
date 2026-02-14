@@ -8,6 +8,8 @@ email: taiyaki.tenfor@gmail.com
 url: "https://investortenfor.github.io"
 baseurl: "/investment-blog"
 
+# パーマリンク設定
+permalink: /:year/:month/:day/:title/
 
 # テーマ
 theme: minima
