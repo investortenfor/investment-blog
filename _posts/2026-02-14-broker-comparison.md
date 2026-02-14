@@ -2,7 +2,7 @@
 layout: post
 title: "【2026年最新】証券会社徹底比較｜SBI vs 楽天 vs マネックス"
 date: 2026-02-14
-categories: 比較
+categories: comparison
 ---
 
 # 証券会社徹底比較
@@ -263,5 +263,7 @@ categories: 比較
 ---
 
 **関連記事**
-- [投資信託の選び方](../14/how-to-choose-investment-trust.md)
-- [NISAとは？完全ガイド](../13/nisa-guide.md)
+- [投資シミュレーター](https://investortenfor.github.io/investment-simulator/)
+- [投資信託の選び方](/investment-blog/basics/2026/02/14/how-to-choose-investment-trust.html)
+- [NISAとは？完全ガイド](/investment-blog/basics/2026/02/14/nisa-guide.html)
+- [20代から始める資産形成](/investment-blog/practice/2026/02/17/investing-in-20s.html)
