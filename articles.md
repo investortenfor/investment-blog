@@ -19,21 +19,21 @@ permalink: /articles/
 
 ### 基礎知識
 <ul>
-{% for post in site.categories.基礎知識 %}
+{% for post in site.categories.basics %}
   <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
 
 ### 実践
 <ul>
-{% for post in site.categories.実践 %}
+{% for post in site.categories.practice %}
   <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
 
 ### 比較
 <ul>
-{% for post in site.categories.比較 %}
+{% for post in site.categories.comparison %}
   <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
