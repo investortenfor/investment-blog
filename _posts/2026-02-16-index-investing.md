@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "インデックス投資とは？初心者におすすめな理由を徹底解説"
-date: 2026-02-14
+date: 2026-02-16
 categories: basics
 ---
 
