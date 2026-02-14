@@ -2,7 +2,7 @@
 layout: post
 title: "投資信託の選び方【初心者向け完全ガイド】"
 date: 2026-02-14
-categories: 基礎知識
+categories: basics
 ---
 
 # 投資信託の選び方
@@ -217,5 +217,7 @@ categories: 基礎知識
 ---
 
 **関連記事**
-- [NISAとは？完全ガイド](../13/nisa-guide.html)
-- 証券会社の選び方（準備中）
+- [投資シミュレーター](https://investortenfor.github.io/investment-simulator/)
+- [NISAとは？完全ガイド](/investment-blog/basics/2026/02/14/nisa-guide.html)
+- [証券会社徹底比較](/investment-blog/comparison/2026/02/14/broker-comparison.html)
+- [インデックス投資とは？](/investment-blog/basics/2026/02/14/index-investing.html)
