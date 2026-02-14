@@ -335,6 +335,6 @@ A: あります（定期預金など）。
 
 **関連記事**
 - [投資シミュレーター](https://investortenfor.github.io/investment-simulator/)
-- [NISAとは？完全ガイド](/investment-blog/basics/2026/02/14/nisa-guide.html)
+- [NISAとは？完全ガイド](/investment-blog/basics/2026/02/13/nisa-guide.html)
 - [投資信託の選び方](/investment-blog/basics/2026/02/14/how-to-choose-investment-trust.html)
 - [毎月3万円で老後2000万円](/investment-blog/practice/2026/02/14/monthly-30000-to-20million.html)
