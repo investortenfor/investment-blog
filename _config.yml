@@ -9,7 +9,7 @@ url: "https://investortenfor.github.io"
 baseurl: "/investment-blog"
 
 # パーマリンク設定
-permalink: /:categories/:year/:month/:day/:title/
+permalink: /:categories/:year/:month/:day/:title.html
 
 # テーマ
 theme: minima
