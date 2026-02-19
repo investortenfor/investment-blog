@@ -33,4 +33,4 @@ permalink: /simulator/
 4. **シミュレーション実行**
 5. 結果を確認して **比較に追加**
 
-詳しい使い方は[投資シミュレーターの使い方](記事URL)をご覧ください。
+詳しい使い方は[投資シミュレーターの使い方](/investment-blog/practice/2026/02/20/how-to-use-simulator.html)をご覧ください。
